@@ -1,1 +1,0 @@
-# grocer_store_management
